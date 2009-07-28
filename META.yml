@@ -21,9 +21,9 @@ no_index:
 recommends:
   Config::Tiny: 0
 requires:
-  Config::Any: 0
+  Config::Any: 0.15
   Log::Dispatch::Config: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 1.0004
+version: 1.0005
