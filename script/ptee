@@ -8,7 +8,7 @@ use Log::Dispatch::Configurator::Any;
 
 our $VERSION = '1.0003';
 $VERSION = eval $VERSION; # numify for warning-free dev releases
-# $Id: ptee 309 2008-12-27 12:42:06Z oliver $
+# $Id$
 
 my $defaults = {
     dispatchers => ['screen'],
